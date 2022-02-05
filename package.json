@@ -2,7 +2,7 @@
   "name": "@limingxinleo/vue3-component",
   "version": "0.1.0",
   "description": "基于Vue3的组件模板",
-  "main": "./dist/hello-world.umd.min.js",
+  "main": "./dist/vue3-component.umd.min.js",
   "author": "李铭昕 <l@hyperf.io>",
   "license": "MIT",
   "keyword": ["Vue3", "Component"],
@@ -12,7 +12,7 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name hello-world ./src/index.ts"
+    "lib": "vue-cli-service build --target lib --name vue3-component ./src/index.ts"
 
   },
   "dependencies": {
