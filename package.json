@@ -1,6 +1,6 @@
 {
   "name": "@kydev/vue3-component",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "基于Vue3的组件模板",
   "main": "./dist/vue3-component.umd.min.js",
   "author": "李铭昕 <l@hyperf.io>",
@@ -9,7 +9,7 @@
     "Vue3",
     "Component"
   ],
-  "typings": "types/index.d.ts",
+  "typings": "typings/index.d.ts",
   "directories": {
     "example": "examples",
     "test": "tests"
