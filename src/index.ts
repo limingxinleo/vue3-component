@@ -1,4 +1,4 @@
-import HelloWorld from "./HelloWorld/HelloWorld.vue";
+import HelloWorld from "./HelloWorld";
 
 const components = {
   HelloWorld,
