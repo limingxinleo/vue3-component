@@ -1,29 +1,11 @@
-# vue3-component
+# Vue 3 组件基础包
 
-## Project setup
-```
-npm install
-```
+## How to use
 
-### Compiles and hot-reloads for development
-```
-npm run serve
+```shell
+git clone https://github.com/limingxinleo/vue3-component.git
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+And then you can change the `package.json` by yourself.
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+At the end, you can run `npm publish --access public` to publish the package.
