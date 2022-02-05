@@ -3,12 +3,14 @@
 </template>
 
 <script>
-export default {
+import { defineComponent } from "@vue/runtime-core";
+
+export default defineComponent({
   name: "HelloWorld",
   props: {
     msg: String,
   },
-};
+});
 </script>
 
 <style scoped></style>
