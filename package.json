@@ -1,8 +1,8 @@
 {
   "name": "@kydev/vue3-component",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "基于Vue3的组件模板",
-  "main": "./dist/vue3-component.umd.min.js",
+  "main": "./dist/index.umd.min.js",
   "author": "李铭昕 <l@hyperf.io>",
   "license": "MIT",
   "keyword": [
@@ -27,7 +27,7 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "lib": "vue-cli-service build --target lib --name vue3-component ./src/index.ts"
+    "lib": "vue-cli-service build --target lib --name index ./src/index.ts"
   },
   "dependencies": {
     "core-js": "^3.6.5",
