@@ -1,4 +1,4 @@
-name: Unit Tests for Element Vue Crontab
+name: Unit Tests for Vue3 Component
 on:
   push:
   pull_request:
